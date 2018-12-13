@@ -1,0 +1,39 @@
+html {
+  border-style: double;
+  border-color: #db1bff;
+  border-width: 15px;
+  background-color: #009fff;
+}
+footer {
+        text-align: center;
+        margin-top: 40px;
+        font-size: .9em;
+}
+footer a {
+        border: 1px solid #777;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        padding-right: 2px;
+        margin-right: 10px;
+        background-color: #FF0066;
+}
+a > strong {
+        background-color: #9932CC;
+        color: #FFaa80;
+        padding: 2px;
+        padding-left: 4px;
+        margin-right: 2px;
+}
+footer{
+     position: relative;
+     bottom: 0;
+     width: 100%;
+     padding-top: 310px;
+}
+a:visited {
+        color: #00eee8;
+}
+h1,h2 {
+  color: #ff008d;
+}
+
